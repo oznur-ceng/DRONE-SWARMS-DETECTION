@@ -24,4 +24,4 @@ The initial learning rate and other parameters required for the system to work p
 
 
 
-As a result of the object detection process, an average of 97.48% success was achieved in the same type of drone types in the dataset, an average of 95.46% on noisy images with different scaled drone types, and an average of 95.67% on images of different weather conditions.
+**As a result of the object detection process, an average of 97.48% success was achieved in the same type of drone types in the dataset, an average of 95.46% on noisy images with different scaled drone types, and an average of 95.67% on images of different weather conditions.**
